@@ -1,2 +1,0 @@
-# mycode
-new repo
